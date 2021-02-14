@@ -124,7 +124,7 @@ right:50%;
 
 /* media query */
 
-@media screen and (min-width:367px) and (max-width:500px){
+@media screen and (min-width:300px) and (max-width:700px){
     body{
         background-position:center;
     }
